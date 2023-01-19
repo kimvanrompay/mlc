@@ -16,4 +16,5 @@ class NlController < ApplicationController
 
   def legal
   end
+
 end
